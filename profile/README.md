@@ -1,1 +1,1 @@
-:dart: [CHEN](http://cpathology.com) concentrates on computational pathology, aims for making cancer history
+:dart: [CHEN](http://cpathology.com) aspires to systematically characterize the cellular context of tumor and its microenvironment for a deeper understanding of the neoplasm evolution from heathy tissue to preneoplastic lesions, to localized tumor, and eventually invasive and metastatic cancer, by implementing innovative AI and deep learning techniques to investigate large-scale imaging and omics data. 
